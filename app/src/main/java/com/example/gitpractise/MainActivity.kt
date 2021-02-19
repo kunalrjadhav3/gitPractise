@@ -34,6 +34,14 @@ class MainActivity : AppCompatActivity() {
 
     }
 
+    fun feature4(){
+
+    }
+
+    fun feature5(){
+
+    }
+
     fun feature6(){
 
     }
