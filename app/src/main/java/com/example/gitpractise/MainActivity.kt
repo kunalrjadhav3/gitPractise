@@ -13,4 +13,16 @@ class MainActivity : AppCompatActivity() {
         // added feature
         // demo code
     }
+
+    fun feature1(){
+
+    }
+
+    fun feature2(){
+
+    }
+
+    fun feature3(){
+
+    }
 }
