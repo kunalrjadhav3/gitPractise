@@ -30,9 +30,7 @@ class MainActivity : AppCompatActivity() {
 
     }
 
-    fun feature5(){
 
-    }
 
     fun feature6(){
 
